@@ -1,0 +1,46 @@
+
+.consola
+{
+	background-color: black;
+	border-radius:1.7em;
+	margin:1em auto;
+	position: relative;
+	width: var(--myWidth);
+	color: white;
+	padding: 2em;
+}
+
+.superior-texto
+{
+	width: var(--myWidth);
+	height:50px;
+}
+
+.superior
+{
+	width: var(--myWidth);
+	height: var(--myHeight);
+}
+
+.inferior
+{
+	width: 450px;
+	border:1px solid grey;
+	height: 150px;
+	margin-top:10px;
+	border-radius: 0 0 1.7em 1.7em;
+}
+
+.inferior-detalles
+{
+	width: 450px;
+	height: 50px;
+}
+
+.powered
+{
+	width: 100%; 
+	text-align: center; 
+	padding: 0.5em;
+	font-family: 'Ubuntu';
+}
